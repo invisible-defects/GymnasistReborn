@@ -67,3 +67,9 @@ student_menu_buttons = ["Расписание {}".format(chr(0x1F554)), "Нов�
                         "Дневник {}".format(chr(0x1F4DD)), "Контакты {}".format(chr(0x1F4DE))]
 student_menu.row(student_menu_buttons[0], student_menu_buttons[1])
 student_menu.row(student_menu_buttons[2], student_menu_buttons[3])
+
+contacts = "Спасибо, что пользуетесь *Помощником Гимназиста!*\n" \
+           "Связаться со мной можно:\n\n" \
+           "*Telegram:* @LifetimeAlone\n" \
+           "*Vk:* https://vk.com/pois0n\n\n" \
+           "{}".format(chr(0x1F31A))
