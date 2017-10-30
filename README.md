@@ -9,7 +9,7 @@ pip install feedparser
 ```
 3. Запустите setup.py  
 4. В файле config.py поставьте необходимый [token](https://tlgrm.ru/docs/bots#botfather) бота  
-5. Наслаждайтесь жинзью!  
+5. Наслаждайтесь жизнью!  
    
    
 ### Контакты  
